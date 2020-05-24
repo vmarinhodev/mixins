@@ -1,0 +1,67 @@
+
+.wrapper {
+  width: 100%;
+  background-color: #fff;
+  display: grid;
+  grid-template-areas: 
+    "head" 
+    "results"
+    "recipe"
+    "shopping" ;
+}
+
+.heading-2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #22c1c3;
+  text-transform: uppercase;
+  margin-bottom: 2.5rem;
+  text-align: center;
+  transform: skewY(-3deg);
+}
+
+.copyright {
+  color: #968b87;
+  font-size: 1.2rem;
+  margin-top: auto;
+}
+
+.link:link,
+.link:visited {
+  color: #968b87;
+}
+
+.loader {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.loader svg {
+  height: 5.5rem;
+  width: 5.5rem;
+  fill: var(--color-bright);
+  transform-origin: 44% 50%;
+  animation: rotate 1.5s infinite linear;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+
+
+
+
+
