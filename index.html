@@ -4,55 +4,42 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link
-      href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="css/style.css" />
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.0.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    />
     <title>Mixins - Cocktails</title>
   </head>
 
   <body>
-    <div class="container">
-      <header class="header">
-        <img src="img/logo.png" alt="Logo" class="header__logo" />
-        <form class="search">
+      <header class="header animated fadeInDown faster">
+        <div class="logo animated fadeIn delay-1s">
+          <ion-icon name="wine"></ion-icon>
+          <span class="logo__title">Mixins</span>
+        </div>
+        <form action="#" class="search animated fadeIn delay-1s">
           <input
             type="text"
-            class="search__field"
+            class="search__input"
             placeholder="Search cocktail recipes"
           />
-          <button class="btn search__btn">
-            <svg class="search__icon">
-              <use href="img/icons.svg#icon-magnifying-glass"></use>
-            </svg>
-            <span>Search</span>
+          <button class="search__btn">
+            <ion-icon name="search-outline"></ion-icon>
           </button>
         </form>
-        <div class="likes">
-          <div class="likes__field">
-            <svg class="likes__icon">
-              <use href="img/icons.svg#icon-heart"></use>
-            </svg>
+        <nav class="menu">
+          <div class="menu__favourite animated fadeIn delay-1s">
+            <ion-icon name="heart"></ion-icon>
+            <div class="menu__favourite__panel" id="scroll"></div>
           </div>
-          <div class="likes__panel">
-            <ul class="likes__list"></ul>
-          </div>
-        </div>
+        </nav>
       </header>
-
-      <div class="results">
-        <ul class="results__list"></ul>
-        <div class="results__pages"></div>
+      <div class="container">
       </div>
-
-      <div class="recipe"></div>
-
-      <div class="shopping">
-        <h2 class="heading-2">My Shopping List</h2>
-        <ul class="shopping__list"></ul>
-      </div>
-    </div>
   <script type="text/javascript" src="js/bundle.js"></script></body>
 </html>
