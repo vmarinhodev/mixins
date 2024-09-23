@@ -23,7 +23,7 @@ This project aims to [provide a concise overview of the project's goals and obje
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:\
 `git clone https://github.com/your-username/your-repo.git`
 2. Open the repository in your code editor or file manager.
 3. Open the index.html file in your web browser.
