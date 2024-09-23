@@ -19,10 +19,8 @@ To run this project locally, follow these steps:
 
 ## Installation
 
-1. Clone the repository:\
-`git clone https://github.com/your-username/your-repo.git`
+1. **Clone the repository**: `git clone https://github.com/your-username/your-repo.git`
 2. Open the repository in your code editor or file manager.
-3. Open the index.html file in your web browser.
 
 Usage
 
@@ -31,9 +29,11 @@ Usage
 3. **Preparation Instruction**: The instructions will be displayed under "How to Prepare".
 4. **Add to list**: Click the "Heart" button to add the cocktail to your list.
 5. **More Cocktails**: Click the back button to go back to the cocktail list.
-6. **My List**: Click "grey heart" on top right corner to see your list of saved cocktails.
+6. **My List**: Click the "Heart" icon on top right corner to see your list of saved cocktails.
 
-Contribution Contributions are welcome! To contribute to this project, please follow these steps:
+Contribution
+
+Contributions are welcome! To contribute to this project, please follow these steps:
 
 1. **Fork the Repository**: Click the "Fork" button on GitHub to create a fork of this repository.
 2. **Create a Branch**: Create a new branch for your feature or bug fix.
