@@ -1,8 +1,6 @@
 # mixins
-js project
-Lets add a new Readme# Mixins Project
 
-A JavaScript project that utilizes mixins to [briefly describe the project's purpose or functionality].
+Mixins is a web application that allows users to search for cocktail recipes by name and view detailed information including ingredients and preparation instructions. This project uses the [CocktailDB API](https://www.thecocktaildb.com/) to retrieve cocktail recipes.
 
 ## Overview
 
@@ -26,7 +24,7 @@ This project aims to [provide a concise overview of the project's goals and obje
 ## Installation
 
 1. Clone the repository:
-* git clone https://github.com/your-username/your-repo.git
+`git clone https://github.com/your-username/your-repo.git`
 2. Open the repository in your code editor or file manager.
 3. Open the index.html file in your web browser.
 
