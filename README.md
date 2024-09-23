@@ -26,10 +26,12 @@ To run this project locally, follow these steps:
 
 Usage
 
-1. Search for Cocktails: Type in a cocktail name and press "Enter" or click the search icon to retrieve cocktail recipes.
-2. View Ingredients: The ingredients for each cocktail will be displayed under the "Ingredients" section.
-3. Instructions for Preparation: Click the "Start Mixing" button to view detailed instructions.
-4. Close Instructions: Click the close button to hide the instructions.
+1. **Search for Cocktails**: Type in a cocktail name and press "Enter" or click the search icon to retrieve cocktail recipes.
+2. **View Ingredients**: The ingredients for each cocktail will be displayed under the "Ingredients" section.
+3. **Preparation Instruction**: The instructions will be displayed under "How to Prepare".
+4. **Add to list**: Click the "Heart" button to add the cocktail to your list.
+5. **More Cocktails**: Click the back button to go back to the cocktail list.
+6. **My List**: Click "grey heart" on top right corner to see your list of saved cocktails.
 
 Contribution Contributions are welcome! To contribute to this project, please follow these steps:
 
