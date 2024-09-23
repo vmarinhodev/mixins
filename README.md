@@ -2,24 +2,20 @@
 
 Mixins is a web application that allows users to search for cocktail recipes by name and view detailed information including ingredients and preparation instructions. This project uses the [CocktailDB API](https://www.thecocktaildb.com/) to retrieve cocktail recipes.
 
-## Overview
-
-This project aims to [provide a concise overview of the project's goals and objectives].
-
 ## Features
 
-- Search Cocktails: Type in the name of a cocktail to find recipes.
-- View Ingredients: Get a list of ingredients required to make the cocktail.
-- Instructions for Preparation: View detailed instructions for preparing the cocktail.
-- Interactive UI: Enjoy a modern and user-friendly interface with interactive elements.
+- **Search Cocktails**: Type in the name of a cocktail to find recipes.
+- **View Ingredients**: Get a list of ingredients required to make the cocktail.
+- **Instructions for Preparation**: View detailed instructions for preparing the cocktail.
+- **Interactive UI**: Enjoy a modern and user-friendly interface with interactive elements.
 
 ## Getting Started
 
-* To run this project locally, follow these steps:
+To run this project locally, follow these steps:
 
-1. Clone the Repository: Clone or download this repository to your local environment.
-2. Open the HTML File: Open the index.html file in your web browser.
-3. Search for Cocktails: Use the search bar to enter a cocktail name and retrieve recipes.
+1. **Clone the Repository**: Clone or download this repository to your local environment.
+2. **Open the HTML File**: Open the index.html file in your web browser.
+3. **Search for Cocktails**: Use the search bar to enter a cocktail name and retrieve recipes.
 
 ## Installation
 
