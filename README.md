@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 Usage
 
-1. **Search for Cocktails**: Type in a cocktail name and press "Enter" or click the search icon to retrieve cocktail recipes.
+1. **Search for Cocktails**: Type in a cocktail or drink name and press "Enter" or click the search icon to retrieve cocktail recipes.
 2. **View Ingredients**: The ingredients for each cocktail will be displayed under the "Ingredients" section.
 3. **Preparation Instruction**: The instructions will be displayed under "How to Prepare".
 4. **Add to list**: Click the "Heart" button to add the cocktail to your list.
@@ -35,12 +35,10 @@ Usage
 
 Contribution Contributions are welcome! To contribute to this project, please follow these steps:
 
-1. Fork the Repository: Click the "Fork" button on GitHub to create a fork of this repository.
-2. Create a Branch: Create a new branch for your feature or bug fix.
-3. Commit Your Changes: Commit your changes to your branch.
-4. Submit a Pull Request: Open a pull request with a detailed description of the changes you've made.
-5. Follow Coding Guidelines: Ensure your code aligns with the project's style and best practices.
+1. **Fork the Repository**: Click the "Fork" button on GitHub to create a fork of this repository.
+2. **Create a Branch**: Create a new branch for your feature or bug fix.
+3. **Commit Your Changes**: Commit your changes to your branch.
+4. **Submit a Pull Request**: Open a pull request with a detailed description of the changes you've made.
+5. **Follow Coding Guidelines**: Ensure your code aligns with the project's style and best practices.
 
 Acknowledgments This project uses the CocktailDB API, an open-source API for cocktail recipes. We thank the maintainers and contributors for providing this valuable resource.
-
-This README template provides a clear structure for presenting your project, along with detailed instructions for installation, usage, and contribution. You can adjust it as needed to fit your project specifics, providing a comprehensive guide for users and contributors.
